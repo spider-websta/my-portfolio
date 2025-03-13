@@ -1,1 +1,41 @@
 # my-portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio </title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+    <!-- Header Section -->
+    <header>
+        <h1>Breyton Ombisa</h1>
+        <p>Web Developer/ Designer / Tech Enthusiast</p>
+    </header>
+
+    <!-- Profile Image -->
+     <section>
+            <img src="images/myphoto.jpg.png" alt="My Profile Picture" width="150">
+        </section>
+        
+        <!-- About Me -->
+     </section>
+     <h2>About Me</h2>
+        <p>Hi, I am Breyton Ombisa. I am a web developer and designer. I am passionate about technology and I love to learn new things. I am a tech enthusiast and I love to share my knowledge with others. I am always looking for new opportunities to grow and develop my skills and build cool websites. </p>
+    </section>
+
+    <!-- Contact Section -->
+    <section>
+        <h2>Contact Me</h2>
+        <p>Email:breytonombisa05@gmail.com</p>
+        <p>Phone: 0795148536</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Breyton Ombisa</p>
+    </footer>
+</body>
+</html>
+```
